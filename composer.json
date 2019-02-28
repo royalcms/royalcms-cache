@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Royalcms\\Component\\Cache\\": ""
+            "Royalcms\\Component\\Cache\\": "Royalcms/Component/Cache"
         }
     },
     "extra": {
